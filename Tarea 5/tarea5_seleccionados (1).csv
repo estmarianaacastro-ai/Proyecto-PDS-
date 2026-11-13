@@ -1,0 +1,46 @@
+departamento,nivel,prom_hist,tasa_2023_2024,tasa_2024_2025,dif_2023_2024,dif_2024_2025,dif_media,mat_2023,mat_2025,aumento_2023_2025,base_pequena
+Amazonas,tecnica,-44.76,-3.33,72.41,41.43,117.17,79.3,30,50,20,True
+Nariño,tecnica,-12.16,-0.63,57.59,11.53,69.75,40.64,159,249,90,True
+Córdoba,tecnica,-0.76,41.03,6.24,41.79,7.0,24.39,602,902,300,False
+Caldas,tecnica,10.01,36.97,21.93,26.96,11.92,19.44,3616,6039,2423,False
+Huila,tecnica,-4.32,16.86,12.44,21.18,16.76,18.97,516,678,162,False
+Santander,tecnica,-4.72,3.38,24.73,8.1,29.45,18.78,1420,1831,411,False
+Valle del Cauca,tecnica,1.14,12.85,26.79,11.71,25.65,18.68,7761,11104,3343,False
+Risaralda,tecnica,6.72,12.3,8.14,5.58,1.42,3.5,1740,2113,373,False
+Arauca,tecnologica,-7.0,7.31,37.04,14.31,44.04,29.17,561,825,264,False
+Vaupés,tecnologica,-11.17,-8.51,25.58,2.66,36.75,19.71,47,54,7,True
+Vichada,tecnologica,-9.86,14.74,3.35,24.6,13.21,18.91,312,370,58,True
+La Guajira,tecnologica,-5.53,5.66,16.24,11.19,21.77,16.48,3660,4495,835,False
+Atlántico,tecnologica,-4.84,9.75,12.76,14.59,17.6,16.1,24088,29810,5722,False
+Guaviare,tecnologica,-5.86,1.73,13.13,7.59,18.99,13.29,981,1129,148,False
+Caldas,tecnologica,-8.71,9.52,-4.4,18.23,4.31,11.27,5701,5969,268,False
+Risaralda,tecnologica,-4.74,1.63,10.39,6.37,15.13,10.75,8939,10029,1090,False
+Nariño,tecnologica,-4.84,5.21,5.56,10.05,10.4,10.22,4361,4843,482,False
+Bolívar,tecnologica,-4.23,7.25,4.36,11.48,8.59,10.04,23521,26326,2805,False
+Amazonas,tecnologica,-2.42,10.94,2.46,13.36,4.88,9.12,256,291,35,True
+Santander,tecnologica,-3.07,4.35,6.64,7.42,9.71,8.57,34794,38719,3925,False
+Antioquia,tecnologica,-5.32,0.42,4.85,5.74,10.17,7.95,75004,78975,3971,False
+Valle del Cauca,tecnologica,-6.41,2.62,-0.26,9.03,6.15,7.59,32574,33339,765,False
+Meta,tecnologica,-3.87,1.12,4.48,4.99,8.35,6.67,4481,4734,253,False
+Quindío,tecnologica,-4.88,2.54,1.02,7.42,5.9,6.66,6508,6741,233,False
+Huila,tecnologica,-3.4,5.95,-0.13,9.35,3.27,6.31,9414,9961,547,False
+Boyacá,tecnologica,-1.61,5.34,2.64,6.95,4.25,5.6,11926,12895,969,False
+Cauca,tecnologica,-3.22,4.2,-0.61,7.42,2.61,5.02,9982,10338,356,False
+Guainía,tecnologica,0.75,0.86,4.26,0.11,3.51,1.81,349,367,18,True
+Putumayo,tecnologica,-0.19,0.12,2.94,0.31,3.13,1.72,3464,3570,106,False
+Amazonas,universitaria,1.69,26.7,11.57,25.01,9.88,17.44,382,540,158,True
+Putumayo,universitaria,15.68,21.04,25.53,5.36,9.85,7.61,3256,4947,1691,False
+Casanare,universitaria,2.61,5.49,12.85,2.88,10.24,6.56,8212,9776,1564,False
+Cesar,universitaria,5.25,6.73,12.62,1.48,7.37,4.43,34769,41792,7023,False
+Santander,universitaria,0.55,3.57,5.92,3.02,5.37,4.2,70615,77463,6848,False
+"Bogotá, D.C.",universitaria,-1.41,1.2,4.18,2.61,5.59,4.1,457723,482581,24858,False
+Quindío,universitaria,0.4,2.52,6.29,2.12,5.89,4.0,18936,20635,1699,False
+Risaralda,universitaria,-0.35,2.18,5.12,2.53,5.47,4.0,32439,34841,2402,False
+Norte de Santander,universitaria,-0.08,1.09,5.14,1.17,5.22,3.2,53445,56809,3364,False
+Antioquia,universitaria,0.95,2.24,5.8,1.29,4.85,3.07,205205,221983,16778,False
+Magdalena,universitaria,3.59,4.51,8.44,0.92,4.85,2.88,33649,38134,4485,False
+La Guajira,universitaria,2.89,5.74,5.76,2.85,2.87,2.86,16738,18717,1979,False
+Caldas,universitaria,0.39,2.45,2.54,2.06,2.15,2.1,31125,32698,1573,False
+Cauca,universitaria,2.49,3.7,4.61,1.21,2.12,1.67,37188,40342,3154,False
+Valle del Cauca,universitaria,2.14,2.92,3.94,0.78,1.8,1.29,125213,133944,8731,False
+Boyacá,universitaria,2.31,3.5,2.94,1.19,0.63,0.91,51575,54950,3375,False
